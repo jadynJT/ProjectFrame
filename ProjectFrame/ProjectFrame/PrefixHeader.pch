@@ -1,0 +1,18 @@
+//
+//  PrefixHeader.pch
+//  ProjectFrame
+//
+//  Created by JS1-ZJT on 17/1/19.
+//  Copyright © 2017年 JS1-ZJT. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "AppDelegate.h"
+#import "AppDelegate+RootController.h"
+#import "Macros.h"
+
+#import "Masonry.h"
+
+#endif /* PrefixHeader_pch */

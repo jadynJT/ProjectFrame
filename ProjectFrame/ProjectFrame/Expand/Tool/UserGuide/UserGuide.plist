@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1.0</key>
+	<dict>
+		<key>IntroImages</key>
+		<array>
+			<string>intro1_upload_video</string>
+			<string>intro2_social_share</string>
+			<string>intro3_scene_course</string>
+		</array>
+		<key>UserGuideImages</key>
+		<dict>
+			<key>SceneLookCoursewareKey</key>
+			<string>intro1_scene_look_courseware</string>
+			<key>SceneArrangeLessonsKey</key>
+			<string>intro2_scene_arrange_lessons</string>
+			<key>SceneClassroomTeachKey</key>
+			<string>intro3_scene_classroom_teach</string>
+			<key>SceneMoveSortKey</key>
+			<string>intro4_scene_move_sort</string>
+			<key>SceneModifyCoursewareKey</key>
+			<string>intro5_scene_modify_courseware</string>
+			<key>SceneTeachingPlanKey</key>
+			<string>intro6_scene_teachingPlan</string>
+			<key>SceneOpenVideoKey</key>
+			<string>intro7_scene_open_video</string>
+			<key>AlbumShareKey</key>
+			<string>intro8_album_share</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
